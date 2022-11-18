@@ -54,5 +54,8 @@
     <ClCompile Include="二叉树的链式结构实现.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="线索二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

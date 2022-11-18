@@ -69,6 +69,7 @@
     <ClCompile Include="栈的链式存储结构实现.cpp" />
     <ClCompile Include="模式匹配_KMP.cpp" />
     <ClCompile Include="测试指针相关问题.cpp" />
+    <ClCompile Include="线索二叉树.cpp" />
     <ClCompile Include="链式存储结构线性表.cpp" />
     <ClCompile Include="链队列.cpp" />
     <ClCompile Include="静态链表.cpp" />
