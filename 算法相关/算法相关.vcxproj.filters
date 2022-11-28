@@ -60,5 +60,11 @@
     <ClCompile Include="邻接矩阵深度和广度遍历DFS_BFS.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="邻接矩阵创建_CreateMGraph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="邻接表创建_CreateALGraph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
