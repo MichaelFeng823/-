@@ -66,5 +66,11 @@
     <ClCompile Include="邻接表创建_CreateALGraph.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最小生成树_prim.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最小生成树_Kruskal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

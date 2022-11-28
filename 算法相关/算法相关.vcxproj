@@ -66,6 +66,8 @@
     <ClCompile Include="串String.cpp" />
     <ClCompile Include="二叉树的链式结构实现.cpp" />
     <ClCompile Include="二叉树的顺序结构实现.cpp" />
+    <ClCompile Include="最小生成树_Kruskal.cpp" />
+    <ClCompile Include="最小生成树_prim.cpp" />
     <ClCompile Include="栈的链式存储结构实现.cpp" />
     <ClCompile Include="模式匹配_KMP.cpp" />
     <ClCompile Include="测试指针相关问题.cpp" />
