@@ -72,5 +72,11 @@
     <ClCompile Include="最小生成树_Kruskal.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="最短路径_Dijkstra.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最短路径_Floyd.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
