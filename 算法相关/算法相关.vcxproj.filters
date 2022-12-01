@@ -78,5 +78,8 @@
     <ClCompile Include="最短路径_Floyd.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="拓扑排序_TopologicalSort.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
