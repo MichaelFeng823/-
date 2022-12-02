@@ -66,6 +66,7 @@
     <ClCompile Include="串String.cpp" />
     <ClCompile Include="二叉树的链式结构实现.cpp" />
     <ClCompile Include="二叉树的顺序结构实现.cpp" />
+    <ClCompile Include="关键路径_CriticalPath.cpp" />
     <ClCompile Include="拓扑排序_TopologicalSort.cpp" />
     <ClCompile Include="最小生成树_Kruskal.cpp" />
     <ClCompile Include="最小生成树_prim.cpp" />
