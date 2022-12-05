@@ -81,6 +81,7 @@
     <ClCompile Include="邻接表创建_CreateALGraph.cpp" />
     <ClCompile Include="链式存储结构线性表.cpp" />
     <ClCompile Include="链队列.cpp" />
+    <ClCompile Include="静态查找_Search.cpp" />
     <ClCompile Include="静态链表.cpp" />
     <ClCompile Include="顺序栈.cpp" />
     <ClCompile Include="顺序结构线性表.cpp" />
