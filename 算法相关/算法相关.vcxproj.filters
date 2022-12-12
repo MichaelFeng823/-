@@ -87,5 +87,14 @@
     <ClCompile Include="静态查找_Search.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="二叉树排序_BinarySortTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="平衡二叉树_AVLTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="B树_BTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
