@@ -96,5 +96,8 @@
     <ClCompile Include="B树_BTree.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="散列表HashTable.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

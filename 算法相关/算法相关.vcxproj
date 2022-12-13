@@ -71,6 +71,7 @@
     <ClCompile Include="关键路径_CriticalPath.cpp" />
     <ClCompile Include="平衡二叉树_AVLTree.cpp" />
     <ClCompile Include="拓扑排序_TopologicalSort.cpp" />
+    <ClCompile Include="散列表HashTable.cpp" />
     <ClCompile Include="最小生成树_Kruskal.cpp" />
     <ClCompile Include="最小生成树_prim.cpp" />
     <ClCompile Include="最短路径_Dijkstra.cpp" />
